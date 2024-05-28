@@ -50,7 +50,7 @@ if (isset($_SESSION["au"])) {
     }
 
 
-    $density_per_point_px = 200 / intval($maxValue);
+    //$density_per_point_px = 200 / intval($maxValue);
 
     // <!-- admin bar chart -->
 

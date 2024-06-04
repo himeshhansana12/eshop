@@ -100,7 +100,7 @@ if (isset($_SESSION["au"])) {
                                 <div class="col-12 mt-5">
                                     <hr class="border border-1 border-white" />
                                     <h4 class="text-white fw-bold">Selling History</h4>
-                                    <a class="nav-link" href="sellingHistory.php">Massages</a>
+                                    <a class="nav-link text-primary " href="sellingHistory.php">History</a>
                                     <hr class="border border-1 border-white" />
                                 </div>
                                 <div class="col-12 mt-3 d-grid">
